@@ -1,4 +1,4 @@
-# sample-blockchain-
+# sample-blockchain-on-JS
 sample blockchain in javascript languages
 
 
